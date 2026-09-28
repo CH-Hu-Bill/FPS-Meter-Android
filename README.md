@@ -44,12 +44,10 @@
 <p align="center">
   <a href="https://github.com/rdevz-ph/FPS-Meter-Android/releases/latest"><img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/master/get-it-on-github.png" alt="Get it on GitHub" height="65" /></a>
   &nbsp;&nbsp;
-  <a href="https://gitlab.com/fdroid/fdroiddata/-/merge_requests/47608"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid (Coming Soon)" height="65" /></a>
-  <br>
-  <sub><i>(F-Droid coming soon)</i></sub>
+  <a href="https://github.com/timschneeb/ShizuStore/releases/latest"><img src="https://raw.githubusercontent.com/timschneeb/ShizuStore/master/artwork/web/icon-512.png" alt="Get it on ShizuStore" title="Get it on ShizuStore" height="65" /></a>
 </p>
 
-Visit the [Official Website & Showcase](https://rdevz-ph.github.io/FPS-Meter-Android/) to explore interactive features, test screenshots, and view full release changelogs. You can also navigate directly to the [Releases](https://github.com/rdevz-ph/FPS-Meter-Android/releases) page to download the latest APK. For troubleshooting installation issues (Google Play Protect) or Android 13+ permission restrictions, check out the [Troubleshooting and Setup Guide](./tutorials/README.md).
+Visit the [Official Website & Showcase](https://rdevz-ph.github.io/FPS-Meter-Android/) to explore interactive features, test screenshots, and view full release changelogs. You can also navigate directly to the [Releases](https://github.com/rdevz-ph/FPS-Meter-Android/releases) page to download the latest APK or install and receive automated updates via [ShizuStore](https://github.com/timschneeb/ShizuStore). For troubleshooting installation issues (Google Play Protect) or Android 13+ permission restrictions, check out the [Troubleshooting and Setup Guide](./tutorials/README.md).
 
 ## Screenshots
 
